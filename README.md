@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Ivan Freire! 😄
 ### Atualmente estou no primeiro semestre na Faculdade SPTECH 💜
 
-![IvanCCO GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanCCO&show_icons=true&theme=jolly)
+[![IvanCCO GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanCCO&show_icons=true&theme=jolly)](https://github.com/IvanCCO)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCCO&layout=compact)](https://github.com/IvanCCO)
 
