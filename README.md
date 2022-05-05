@@ -1,5 +1,7 @@
 ## Opa! Eu sou o Ivan Freire! 😄
 ### Atualmente estou no primeiro semestre na Faculdade SPTECH 💜
+#### Se quiser ver meu perfil pessoal clique no link abaixo:
+<a href="https://github.com/IvanFre1re" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 [![IvanCCO GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanCCO&show_icons=true&theme=jolly)](https://github.com/IvanCCO)
 
