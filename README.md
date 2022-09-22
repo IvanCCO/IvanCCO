@@ -10,7 +10,7 @@
   <img align="center" alt="Ivan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ivan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ivan-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-  <img align="center" alt="Ivan-Python" height="30" width="40" src="[https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg)">
+  <img align="center" alt="Ivan-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg">
   </div> <br>
   
   <h2>Meus Hobbies</h2>
