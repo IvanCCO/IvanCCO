@@ -8,14 +8,6 @@
 
 > Now working at C6Bank in back-end development.
 </details>
-  <details>
-  <summary>
-    <strong>
-      Competitive Programming ❤️
-    <strong>
-  </summary>
-LeetCode | HackerRank | Beecrowd
-</details>  
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" height="85" alt="GIF">
 
@@ -29,3 +21,13 @@ LeetCode | HackerRank | Beecrowd
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 [![](https://img.shields.io/badge/-React-45B8D8?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+    
+<details>
+  <summary>
+    <strong>
+      Competitive Programming.
+    <strong>
+  </summary>
+      
+> LeetCode | HackerRank | Beecrowd.
+</details>    
