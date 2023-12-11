@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats-liby.vercel.app/api?username=IvanCCO&show_icons=true&hide=stars&hide_title=true&theme=cobalt&hide_border=true">
 <details>
   <summary>
     <strong>
