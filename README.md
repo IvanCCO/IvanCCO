@@ -21,13 +21,4 @@
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 [![](https://img.shields.io/badge/-React-45B8D8?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
-    
-<details>
-  <summary>
-    <strong>
-      Competitive Programming.
-    <strong>
-  </summary>
-      
-> LeetCode
-</details>
+
