@@ -9,6 +9,7 @@
 </details>
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" height="85" alt="GIF">
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
 
 ## Skills
 <table><tr><td valign="top" width="33%">
@@ -56,4 +57,10 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
+
+</td></tr></table>  
+
+<br/>  
+
+
 
