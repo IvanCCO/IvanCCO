@@ -5,7 +5,7 @@
     <strong>
   </summary>
 
-> Now working at C6Bank.
+> Now working at Backend development.
 </details>
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" height="85" alt="GIF">
