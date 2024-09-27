@@ -58,6 +58,6 @@
 <br/>  
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bcd4e6&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=56079b&section=footer">
 
 
