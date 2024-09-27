@@ -8,8 +8,26 @@
 > Now working at Backend development.
 </details>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" height="85" alt="GIF">
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<table>
+  <tr>
+    <td>
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" height="85" alt="GIF">
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" />
+      </div>
+    </td>
+    <td>
+      <div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+    </td>
+
+    
+
+  </tr>
+</table>
 
   
 ## Languages and Tools  
@@ -59,5 +77,11 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=56079b&section=footer">
+
+
+<br/>  
+
+
+
 
 
