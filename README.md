@@ -9,6 +9,12 @@
 </details>
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" height="85" alt="GIF">
+
+---
+
+Take a look on my Blog - [IvanFreire](https://www.ivanfreire.me/)
+
+---
   
 ## Languages and Tools  
 <div align="center">  
@@ -54,7 +60,6 @@
 </div>  
 
 <br/>  
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=56079b&section=footer">
 
